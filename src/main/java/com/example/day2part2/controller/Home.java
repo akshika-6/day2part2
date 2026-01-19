@@ -11,10 +11,10 @@ public class Home {
     public ArrayList<StudentModel> getStudent(){
         ArrayList<StudentModel> list=new ArrayList<>();
         StudentModel student1 = new StudentModel(1,"Akshika","akshika27ak@gmail.com");
-        StudentModel student2 = new StudentModel(2,"Rahul","akshika27ak@gmail.com");
-        StudentModel student3 = new StudentModel(3,"Aditya","akshika27ak@gmail.com");
-        StudentModel student4 = new StudentModel(4,"Aviral","akshika27ak@gmail.com");
-        StudentModel student5 = new StudentModel(5,"Aaradhya","akshika27ak@gmail.com");
+        StudentModel student2 = new StudentModel(2,"Rahul","rahul@gmail.com");
+        StudentModel student3 = new StudentModel(3,"Aditya","aditya@gmail.com");
+        StudentModel student4 = new StudentModel(4,"Aviral","aviral@gmail.com");
+        StudentModel student5 = new StudentModel(5,"Aaradhya","aaradhya@gmail.com");
         list.add(student1);
         list.add(student2);
         list.add(student3);
